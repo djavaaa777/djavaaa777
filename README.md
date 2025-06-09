@@ -17,6 +17,8 @@
 - 💰 [crypto-tracker](https://github.com/djavaaa777/crypto-tracker)
 - 🎥 [movie-explorer](https://github.com/djavaaa777/movie-explorer)
 - 🧑‍🍳 [recipe-wall](https://github.com/djavaaa777/recipe-wall)
+- 👨‍🎨 [articles_catalog](web-production-dda90.up.railway.app)
+- 👨‍🎨 [my-travel-journal](web-production-dda90.up.railway.app)
 
 ## 📫 Contact
 - 📧 Email: **dzavidmustafaev56@gmail.com**
