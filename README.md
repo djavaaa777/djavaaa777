@@ -17,7 +17,7 @@
 - 💰 [crypto-tracker](https://github.com/djavaaa777/crypto-tracker)
 - 🎥 [movie-explorer](https://github.com/djavaaa777/movie-explorer)
 - 🧑‍🍳 [recipe-wall](https://github.com/djavaaa777/recipe-wall)
-- 👨‍🎨 [articles_catalog](web-production-dda90.up.railway.app)
+- 👨‍🎨 [articles_catalog](https://github.com/djavaaa777/articles_catalog)
 - 👨‍🎨 [my-travel-journal](https://my-travel-journal-production.up.railway.app/)
 
 ## 📫 Contact
