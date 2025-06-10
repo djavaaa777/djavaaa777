@@ -18,7 +18,7 @@
 - 🎥 [movie-explorer](https://github.com/djavaaa777/movie-explorer)
 - 🧑‍🍳 [recipe-wall](https://github.com/djavaaa777/recipe-wall)
 - 👨‍🎨 [articles_catalog](https://github.com/djavaaa777/articles_catalog)
-- 👨‍🎨 [my-travel-journal](https://my-travel-journal-production.up.railway.app/)
+- 👨‍🎨 [my-travel-journal](https://github.com/djavaaa777/my-travel-journal)
 
 ## 📫 Contact
 - 📧 Email: **dzavidmustafaev56@gmail.com**
