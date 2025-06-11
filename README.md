@@ -21,7 +21,7 @@
 - 👨‍🎨 [my-travel-journal](https://github.com/djavaaa777/my-travel-journal)
 
 ## 📫 Contact
-- 📧 Email: **dzavidmustafaev56@gmail.com**
+- 📧 Email: **mustafaevjavid@gmail.com**
 - 📞 Phone: **+49 177 2830483**
 - 🌐 Portfolio: *Coming soon*
 
